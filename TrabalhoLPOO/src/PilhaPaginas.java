@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /*Implementar os métodos básicos da pilha:
 ◦ push(Pagina p) → adiciona uma nova página.
 ◦ pop() → remove a página atual.
-◦ peek() → mostra a página atual .
+◦ peek() → mostrar a página atual .
 ◦ isEmpty() → verifica se a pilha está vazia.*/
 
 public class PilhaPaginas {
